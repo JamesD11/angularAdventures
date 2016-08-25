@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/JamesD11/angularAdventures#readme",
   "dependencies": {
+    "angular": "^1.5.8",
     "body-parser": "^1.15.2",
     "express": "^4.14.0"
   }
