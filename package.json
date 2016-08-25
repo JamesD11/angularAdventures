@@ -1,0 +1,30 @@
+{
+  "name": "angular_practice",
+  "version": "1.0.0",
+  "description": "An app for learning angular",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesD11/angularAdventures.git"
+  },
+  "keywords": [
+    "angular",
+    "node",
+    "js",
+    "express"
+  ],
+  "author": "James D",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamesD11/angularAdventures/issues"
+  },
+  "homepage": "https://github.com/JamesD11/angularAdventures#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
